@@ -1,0 +1,8 @@
+Pillow==9.5.0
+PyMuPDF==1.22.1
+PyPDF2==3.0.1
+PyPDF4==1.27.0
+PyQt5==5.15.9
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.12.1
+tkPDFViewer==0.1
